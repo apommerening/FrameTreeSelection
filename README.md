@@ -17,4 +17,4 @@ X: Cartesian x coordinate of tree location in m
 Y: Cartesian y coordinate of tree location in m
 
 The following columns give the marking results, i.e. each rater is represented by one column. "0" means "not selected" and "1" means "selected". 
-The R script entitled KappaEtAl.R includes all calculations related to the analyses descriped in the paper. Additionally the R script entitled PlotDataSummary.R gives all calculations that provided the results shown in Table 1 of the publication. Comments in the R scripts aid the understanding of the code. Questions can be directed to the first author on arne.pommerening@slu.se or arne.pommerening@gmail.com.
+The R script entitled KappaEtAl.R includes all calculations related to the analyses descriped in the paper. Additionally the R script entitled PlotDataSummary.R gives all calculations that provided the results shown in Table 1 of the publication. Comments in the R scripts aid the understanding of the code. Questions can be directed to the first author on arne.pommerening@slu.se or arne.pommerening@gmail.com. The authors are very keen on cooperation.
